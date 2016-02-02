@@ -1,0 +1,135 @@
+{"level":"INFO","message":"Could not read chrome manifest 'file:///Applications/Firefox.app/Contents/Resources/chrome.manifest'.\n","timestamp":1452047878959,"type":""}
+{"level":"INFO","message":"1452047877037\taddons.manager\tDEBUG\tApplication has been upgraded\n","timestamp":1452047878959,"type":""}
+{"level":"INFO","message":"1452047877067\taddons.manager\tDEBUG\tLoaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: [\"XPIProvider\"]\n","timestamp":1452047878960,"type":""}
+{"level":"INFO","message":"1452047877070\taddons.manager\tDEBUG\tLoaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: [\"LightweightThemeManager\"]\n","timestamp":1452047878960,"type":""}
+{"level":"INFO","message":"1452047877074\taddons.manager\tDEBUG\tLoaded provider scope for resource://gre/modules/addons/GMPProvider.jsm\n","timestamp":1452047878960,"type":""}
+{"level":"INFO","message":"1452047877076\taddons.manager\tDEBUG\tLoaded provider scope for resource://gre/modules/addons/PluginProvider.jsm\n","timestamp":1452047878960,"type":""}
+{"level":"INFO","message":"1452047877076\taddons.manager\tDEBUG\tStarting provider: XPIProvider\n","timestamp":1452047878960,"type":""}
+{"level":"INFO","message":"1452047877077\taddons.xpi\tDEBUG\tstartup\n","timestamp":1452047878961,"type":""}
+{"level":"INFO","message":"1452047877077\taddons.xpi\tINFO\tMapping fxdriver@googlecode.com to /var/folders/9j/jx3jhsld3v93dywln64bsdr00000gn/T/tmpPAeZC4/extensions/fxdriver@googlecode.com\n","timestamp":1452047878961,"type":""}
+{"level":"INFO","message":"1452047877078\taddons.xpi\tINFO\tSystemAddonInstallLocation directory is missing\n","timestamp":1452047878961,"type":""}
+{"level":"INFO","message":"1452047877079\taddons.xpi\tINFO\tMapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to /Applications/Firefox.app/Contents/Resources/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}\n","timestamp":1452047878962,"type":""}
+{"level":"INFO","message":"1452047877079\taddons.xpi\tDEBUG\tSkipping unavailable install location app-system-share\n","timestamp":1452047878962,"type":""}
+{"level":"INFO","message":"1452047877080\taddons.xpi\tDEBUG\tcheckForChanges\n","timestamp":1452047878962,"type":""}
+{"level":"INFO","message":"1452047877081\taddons.xpi\tDEBUG\tLoaded add-on state from prefs: {}\n","timestamp":1452047878962,"type":""}
+{"level":"INFO","message":"1452047877081\taddons.xpi\tDEBUG\tNew add-on fxdriver@googlecode.com in app-profile\n","timestamp":1452047878963,"type":""}
+{"level":"INFO","message":"1452047877081\taddons.xpi\tDEBUG\tgetModTime: Recursive scan of fxdriver@googlecode.com\n","timestamp":1452047878963,"type":""}
+{"level":"INFO","message":"1452047877084\taddons.xpi\tDEBUG\tNew add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global\n","timestamp":1452047878963,"type":""}
+{"level":"INFO","message":"1452047877084\taddons.xpi\tDEBUG\tgetModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}\n","timestamp":1452047878963,"type":""}
+{"level":"INFO","message":"1452047877085\taddons.xpi\tDEBUG\tgetInstallState changed: true, state: {\"app-profile\":{\"fxdriver@googlecode.com\":{\"d\":\"/var/folders/9j/jx3jhsld3v93dywln64bsdr00000gn/T/tmpPAeZC4/extensions/fxdriver@googlecode.com\",\"st\":1452047876000,\"mt\":1452047876000}},\"app-global\":{\"{972ce4c6-7e08-4474-a285-3208198ce6fd}\":{\"d\":\"/Applications/Firefox.app/Contents/Resources/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}\",\"st\":1450913820000,\"mt\":1450912227000}}}\n","timestamp":1452047878963,"type":""}
+{"level":"INFO","message":"1452047877094\taddons.xpi-utils\tDEBUG\tOpening XPI database /var/folders/9j/jx3jhsld3v93dywln64bsdr00000gn/T/tmpPAeZC4/extensions.json\n","timestamp":1452047878963,"type":""}
+{"level":"INFO","message":"1452047877095\taddons.xpi-utils\tDEBUG\tNew add-on fxdriver@googlecode.com installed in app-profile\n","timestamp":1452047878964,"type":""}
+{"level":"INFO","message":"Blocklist::_loadBlocklistFromFile: blocklist is disabled\n","timestamp":1452047878964,"type":""}
+{"level":"INFO","message":"1452047877137\tDeferredSave.extensions.json\tDEBUG\tSave changes\n","timestamp":1452047878964,"type":""}
+{"level":"INFO","message":"1452047877137\taddons.xpi-utils\tDEBUG\tNew add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global\n","timestamp":1452047878965,"type":""}
+{"level":"INFO","message":"1452047877142\tDeferredSave.extensions.json\tDEBUG\tStarting timer\n","timestamp":1452047878965,"type":""}
+{"level":"INFO","message":"1452047877143\tDeferredSave.extensions.json\tDEBUG\tSave changes\n","timestamp":1452047878965,"type":""}
+{"level":"INFO","message":"1452047877144\taddons.xpi-utils\tINFO\tHiding the updated system add-ons.\n","timestamp":1452047878965,"type":""}
+{"level":"INFO","message":"1452047877144\taddons.manager\tDEBUG\tRegistering startup change 'installed' for fxdriver@googlecode.com\n","timestamp":1452047878965,"type":""}
+{"level":"INFO","message":"1452047877144\taddons.xpi-utils\tDEBUG\tMake addon app-profile:fxdriver@googlecode.com visible\n","timestamp":1452047878965,"type":""}
+{"level":"INFO","message":"1452047877144\tDeferredSave.extensions.json\tDEBUG\tSave changes\n","timestamp":1452047878966,"type":""}
+{"level":"INFO","message":"1452047877145\taddons.xpi-utils\tDEBUG\tMake addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible\n","timestamp":1452047878966,"type":""}
+{"level":"INFO","message":"1452047877145\tDeferredSave.extensions.json\tDEBUG\tSave changes\n","timestamp":1452047878966,"type":""}
+{"level":"INFO","message":"1452047877145\taddons.xpi\tDEBUG\tUpdating XPIState for {\"id\":\"fxdriver@googlecode.com\",\"syncGUID\":\"I635S-oFY5iu\",\"location\":\"app-profile\",\"version\":\"2.48.0\",\"type\":\"extension\",\"internalName\":null,\"updateURL\":null,\"updateKey\":null,\"optionsURL\":null,\"optionsType\":null,\"aboutURL\":null,\"iconURL\":null,\"icon64URL\":null,\"defaultLocale\":{\"name\":\"Firefox WebDriver\",\"description\":\"WebDriver implementation for Firefox\",\"creator\":\"Simon Stewart\",\"homepageURL\":null},\"visible\":true,\"active\":true,\"userDisabled\":false,\"appDisabled\":false,\"descriptor\":\"/var/folders/9j/jx3jhsld3v93dywln64bsdr00000gn/T/tmpPAeZC4/extensions/fxdriver@googlecode.com\",\"installDate\":1452047876000,\"updateDate\":1452047876000,\"applyBackgroundUpdates\":1,\"bootstrap\":false,\"size\":3213569,\"sourceURI\":null,\"releaseNotesURI\":null,\"softDisabled\":false,\"foreignInstall\":true,\"hasBinaryComponents\":true,\"strictCompatibility\":false,\"locales\":[],\"targetApplications\":[{\"id\":\"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}\",\"minVersion\":\"3.0\",\"maxVersion\":\"45.0\"}],\"targetPlatforms\":[{\"os\":\"Darwin\",\"abi\":null},{\"os\":\"SunOS\",\"abi\":null},{\"os\":\"FreeBSD\",\"abi\":null},{\"os\":\"OpenBSD\",\"abi\":null},{\"os\":\"WINNT\",\"abi\":\"x86-msvc\"},{\"os\":\"Linux\",\"abi\":null}],\"multiprocessCompatible\":false,\"signedState\":0}\n","timestamp":1452047878966,"type":""}
+{"level":"INFO","message":"1452047877145\taddons.xpi\tDEBUG\tgetModTime: Recursive scan of fxdriver@googlecode.com\n","timestamp":1452047878966,"type":""}
+{"level":"INFO","message":"1452047877147\taddons.xpi\tDEBUG\tUpdating XPIState for {\"id\":\"{972ce4c6-7e08-4474-a285-3208198ce6fd}\",\"syncGUID\":\"aUm9yGe4uoB8\",\"location\":\"app-global\",\"version\":\"43.0.3\",\"type\":\"theme\",\"internalName\":\"classic/1.0\",\"updateURL\":null,\"updateKey\":null,\"optionsURL\":null,\"optionsType\":null,\"aboutURL\":null,\"iconURL\":null,\"icon64URL\":null,\"defaultLocale\":{\"name\":\"Default\",\"description\":\"The default theme.\",\"creator\":\"Mozilla\",\"homepageURL\":null,\"contributors\":[\"Mozilla Contributors\"]},\"visible\":true,\"active\":true,\"userDisabled\":false,\"appDisabled\":false,\"descriptor\":\"/Applications/Firefox.app/Contents/Resources/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}\",\"installDate\":1450913820000,\"updateDate\":1450913820000,\"applyBackgroundUpdates\":1,\"skinnable\":true,\"size\":8170,\"sourceURI\":null,\"releaseNotesURI\":null,\"softDisabled\":false,\"foreignInstall\":false,\"hasBinaryComponents\":false,\"strictCompatibility\":true,\"locales\":[],\"targetApplications\":[{\"id\":\"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}\",\"minVersion\":\"43.0.3\",\"maxVersion\":\"43.0.3\"}],\"targetPlatforms\":[]}\n","timestamp":1452047878967,"type":""}
+{"level":"INFO","message":"1452047877147\taddons.xpi\tDEBUG\tgetModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}\n","timestamp":1452047878967,"type":""}
+{"level":"INFO","message":"1452047877148\tDeferredSave.extensions.json\tDEBUG\tSave changes\n","timestamp":1452047878967,"type":""}
+{"level":"INFO","message":"1452047877148\taddons.xpi\tDEBUG\tUpdating database with changes to installed add-ons\n","timestamp":1452047878967,"type":""}
+{"level":"INFO","message":"1452047877148\taddons.xpi-utils\tDEBUG\tUpdating add-on states\n","timestamp":1452047878967,"type":""}
+{"level":"INFO","message":"1452047877149\taddons.xpi-utils\tDEBUG\tWriting add-ons list\n","timestamp":1452047878967,"type":""}
+{"level":"INFO","message":"1452047877158\taddons.manager\tDEBUG\tRegistering shutdown blocker for XPIProvider\n","timestamp":1452047878968,"type":""}
+{"level":"INFO","message":"1452047877159\taddons.manager\tDEBUG\tProvider finished startup: XPIProvider\n","timestamp":1452047878968,"type":""}
+{"level":"INFO","message":"1452047877159\taddons.manager\tDEBUG\tStarting provider: LightweightThemeManager\n","timestamp":1452047878968,"type":""}
+{"level":"INFO","message":"1452047877159\taddons.manager\tDEBUG\tRegistering shutdown blocker for LightweightThemeManager\n","timestamp":1452047878968,"type":""}
+{"level":"INFO","message":"1452047877159\taddons.manager\tDEBUG\tProvider finished startup: LightweightThemeManager\n","timestamp":1452047878969,"type":""}
+{"level":"INFO","message":"1452047877160\taddons.manager\tDEBUG\tStarting provider: GMPProvider\n","timestamp":1452047878969,"type":""}
+{"level":"INFO","message":"1452047877166\taddons.manager\tDEBUG\tRegistering shutdown blocker for GMPProvider\n","timestamp":1452047878969,"type":""}
+{"level":"INFO","message":"1452047877166\taddons.manager\tDEBUG\tProvider finished startup: GMPProvider\n","timestamp":1452047878969,"type":""}
+{"level":"INFO","message":"1452047877166\taddons.manager\tDEBUG\tStarting provider: PluginProvider\n","timestamp":1452047878969,"type":""}
+{"level":"INFO","message":"1452047877166\taddons.manager\tDEBUG\tRegistering shutdown blocker for PluginProvider\n","timestamp":1452047878970,"type":""}
+{"level":"INFO","message":"1452047877167\taddons.manager\tDEBUG\tProvider finished startup: PluginProvider\n","timestamp":1452047878970,"type":""}
+{"level":"INFO","message":"1452047877167\taddons.manager\tDEBUG\tCompleted startup sequence\n","timestamp":1452047878970,"type":""}
+{"level":"WARNING","message":"Trying to re-register CID '{e26dbdcd-d3ba-4ded-88c3-6cb07ee3e9e0}' already registered by file:///var/folders/9j/jx3jhsld3v93dywln64bsdr00000gn/T/tmpPAeZC4/extensions/fxdriver@googlecode.com/components/prompt-service.js.","timestamp":1452047878970,"type":""}
+{"level":"WARNING","message":"Only application manifests may use the 'binary-component' directive.","timestamp":1452047878970,"type":""}
+{"level":"INFO","message":"Get a connection to permissions.sqlite.\n","timestamp":1452047878970,"type":""}
+{"level":"INFO","message":"DB table(moz_perms) is created!\n","timestamp":1452047878971,"type":""}
+{"level":"INFO","message":"1452047877915\taddons.manager\tDEBUG\tStarting provider: <unnamed-provider>\n","timestamp":1452047878971,"type":""}
+{"level":"INFO","message":"1452047877915\taddons.manager\tDEBUG\tRegistering shutdown blocker for <unnamed-provider>\n","timestamp":1452047878971,"type":""}
+{"level":"INFO","message":"1452047877915\taddons.manager\tDEBUG\tProvider finished startup: <unnamed-provider>\n","timestamp":1452047878971,"type":""}
+{"level":"INFO","message":"1452047878018\tDeferredSave.extensions.json\tDEBUG\tStarting write\n","timestamp":1452047878971,"type":""}
+{"level":"INFO","message":"1452047878184\taddons.repository\tDEBUG\tNo addons.json found.\n","timestamp":1452047878972,"type":""}
+{"level":"INFO","message":"1452047878185\tDeferredSave.addons.json\tDEBUG\tSave changes\n","timestamp":1452047878972,"type":""}
+{"level":"INFO","message":"1452047878190\tDeferredSave.addons.json\tDEBUG\tStarting timer\n","timestamp":1452047878972,"type":""}
+{"level":"INFO","message":"1452047878219\taddons.manager\tDEBUG\tStarting provider: PreviousExperimentProvider\n","timestamp":1452047878972,"type":""}
+{"level":"INFO","message":"1452047878219\taddons.manager\tDEBUG\tRegistering shutdown blocker for PreviousExperimentProvider\n","timestamp":1452047878972,"type":""}
+{"level":"INFO","message":"1452047878219\taddons.manager\tDEBUG\tProvider finished startup: PreviousExperimentProvider\n","timestamp":1452047878972,"type":""}
+{"level":"INFO","message":"1452047878242\tDeferredSave.extensions.json\tDEBUG\tWrite succeeded\n","timestamp":1452047878973,"type":""}
+{"level":"INFO","message":"1452047878243\taddons.xpi-utils\tDEBUG\tXPI Database saved, setting schema version preference to 17\n","timestamp":1452047878973,"type":""}
+{"level":"INFO","message":"1452047878245\tDeferredSave.addons.json\tDEBUG\tStarting write\n","timestamp":1452047878973,"type":""}
+{"level":"INFO","message":"1452047878282\tDeferredSave.addons.json\tDEBUG\tWrite succeeded\n","timestamp":1452047878973,"type":""}
+{"level":"INFO","message":"OpenGL compositor Initialized Succesfully.\nVersion: 2.1 INTEL-10.10.18\nVendor: Intel Inc.\nRenderer: Intel HD Graphics 4000 OpenGL Engine\nFBO Texture Target: TEXTURE_2D\n","timestamp":1452047878973,"type":""}
+{"level":"INFO","message":"OpenGL compositor Initialized Succesfully.\nVersion: 2.1 INTEL-10.10.18\nVendor: Intel Inc.\nRenderer: Intel HD Graphics 4000 OpenGL Engine\nFBO Texture Target: TEXTURE_2D\n","timestamp":1452047879320,"type":""}
+{"level":"WARNING","message":"Unrecognized at-rule or error parsing at-rule '@viewport'.","timestamp":1452047881316,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881319,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-border-radius'.  Declaration dropped.","timestamp":1452047881319,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-border-radius'.  Declaration dropped.","timestamp":1452047881319,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881319,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881319,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-border-radius'.  Declaration dropped.","timestamp":1452047881319,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881320,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881320,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881320,"type":""}
+{"level":"WARNING","message":"Unknown property 'user-select'.  Declaration dropped.","timestamp":1452047881320,"type":""}
+{"level":"WARNING","message":"Selector expected.  Ruleset ignored due to bad selector.","timestamp":1452047881320,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-border-radius'.  Declaration dropped.","timestamp":1452047881320,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-border-radius'.  Declaration dropped.","timestamp":1452047881321,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881321,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881321,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881321,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881321,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881322,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881322,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881322,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881322,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881322,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881323,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881323,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881323,"type":""}
+{"level":"WARNING","message":"Unknown property 'user-select'.  Declaration dropped.","timestamp":1452047881323,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881323,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881323,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881324,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881324,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881324,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881324,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881324,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881324,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881324,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881325,"type":""}
+{"level":"WARNING","message":"Error in parsing value for 'background-image'.  Declaration dropped.","timestamp":1452047881325,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881325,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881325,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881325,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881325,"type":""}
+{"level":"WARNING","message":"Unknown property 'touch-action'.  Declaration dropped.","timestamp":1452047881326,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881326,"type":""}
+{"level":"WARNING","message":"Error in parsing value for '-moz-transition'.  Declaration dropped.","timestamp":1452047881326,"type":""}
+{"level":"WARNING","message":"Unknown property 'user-select'.  Declaration dropped.","timestamp":1452047881326,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-opacity'.  Declaration dropped.","timestamp":1452047881326,"type":""}
+{"level":"WARNING","message":"Expected 'none', URL, or filter function but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.","timestamp":1452047881326,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-border-radius'.  Declaration dropped.","timestamp":1452047881326,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-border-radius'.  Declaration dropped.","timestamp":1452047881327,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881327,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881327,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881327,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-border-radius'.  Declaration dropped.","timestamp":1452047881327,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881327,"type":""}
+{"level":"WARNING","message":"Expected media feature name but found '-webkit-min-device-pixel-ratio'.","timestamp":1452047881327,"type":""}
+{"level":"WARNING","message":"Unknown property 'touch-action'.  Declaration dropped.","timestamp":1452047881328,"type":""}
+{"level":"WARNING","message":"Expected media feature name but found 'pointer'.","timestamp":1452047881354,"type":""}
+{"level":"WARNING","message":"Expected media feature name but found 'pointer'.","timestamp":1452047881355,"type":""}
+{"level":"WARNING","message":"Expected media feature name but found '-webkit-min-device-pixel-ratio'.","timestamp":1452047881355,"type":""}
+{"level":"WARNING","message":"Expected 'none', URL, or filter function but found 'alpha('.  Error in parsing value for 'filter'.  Declaration dropped.","timestamp":1452047881355,"type":""}
+{"level":"WARNING","message":"Unknown property '-moz-box-shadow'.  Declaration dropped.","timestamp":1452047881355,"type":""}
+{"level":"WARNING","message":"Unknown property 'user-select'.  Declaration dropped.","timestamp":1452047881356,"type":""}

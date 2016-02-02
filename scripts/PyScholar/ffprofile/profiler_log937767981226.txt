@@ -1,0 +1,4 @@
+{"level":"INFO","message":"{\"event\":\"YIELD_TO_PAGE_LOAD\",\"startorend\":\"start\"}","timestamp":1452748343400,"type":"profiler"}
+{"level":"INFO","message":"{\"event\":\"YIELD_TO_PAGE_LOAD\",\"startorend\":\"end\"}","timestamp":1452748343400,"type":"profiler"}
+{"level":"INFO","message":"{\"event\":\"YIELD_TO_PAGE_LOAD\",\"startorend\":\"start\"}","timestamp":1452748379858,"type":"profiler"}
+{"level":"INFO","message":"{\"event\":\"YIELD_TO_PAGE_LOAD\",\"startorend\":\"end\"}","timestamp":1452748379859,"type":"profiler"}

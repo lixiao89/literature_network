@@ -1,0 +1,12 @@
+#!/usr/bin/env python
+
+from alchemyapi import AlchemyAPI
+import json
+import pdf2txt
+from os import walk
+
+
+k = '-o'
+pdf_path = "/Users/xiaoli/Desktop/literatures/pdf1/"
+out_txt_path = "/Users/xiaoli/Desktop/literatures/text/"
+json_path = "/Users/xiaoli/Desktop/literatures/json/"

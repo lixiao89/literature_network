@@ -1,0 +1,2 @@
+{"level":"INFO","message":"{\"event\":\"YIELD_TO_PAGE_LOAD\",\"startorend\":\"start\"}","timestamp":1452054483536,"type":"profiler"}
+{"level":"INFO","message":"{\"event\":\"YIELD_TO_PAGE_LOAD\",\"startorend\":\"end\"}","timestamp":1452054483537,"type":"profiler"}
